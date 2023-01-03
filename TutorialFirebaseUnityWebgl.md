@@ -1,6 +1,9 @@
-# FirebaseWebGL
+# Tutorial Firebase for Unity WebGL using REST API
 Integrate firebase with Unity WebGL using REST API
 Firebase Database in Unity with REST API
+
+## Demo for Xarcade Games:
+
 
 ## Why use REST?
 When it comes to Unity, Firebase offers a complete SDK in order to easily integrate its different services (database, authentication, functions…).
